@@ -26,7 +26,7 @@
 ## 免费爬虫
 一个用于从 Google Flights 进行小规模数据提取的快速、简单的爬虫。
 
-<img width="800" alt="google-flights-scraper" src="https://github.com/bright-cn/google-flights-api/blob/main/images/424383720-44ae10b1-4974-497e-9a7c-c1a762614f0e.png" />
+<img width="800" alt="google-flights-scraper" src="https://github.com/bright-cn/-google-flights-api/blob/main/images/424383720-44ae10b1-4974-497e-9a7c-c1a762614f0e.png" />
 
 ### 环境准备
 - [Python 3.9+](https://www.python.org/downloads/)
