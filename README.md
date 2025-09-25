@@ -42,7 +42,7 @@ playwright install chromium
 ### 快速开始
 1. 打开 [google-flights-scraper.py](https://github.com/bright-cn/google-flights-api/blob/main/google-flights-scraper/google-flights-scraper.py)
 2. 更新以下变量：
-  - `url`：粘贴 Google Flights 的 URL（通常包含 `tfs`）
+    - `url`：粘贴 Google Flights 的 URL（通常包含 `tfs`）
 3. 运行脚本
 
 💡 专业提示：将 `HEADLESS = False` 可降低被 Google 反抓取措施检测的概率。
