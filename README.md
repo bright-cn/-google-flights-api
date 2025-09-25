@@ -174,7 +174,7 @@ print("Response saved to 'google-flights-data.html'.")
 通过以下可选参数，精细化你的 Google Flights 数据提取。
 
 ### 本地化参数
-<img width="800" alt="bright-data-google-flights-api-localization" src="https://github.com/bright-cn/google-flights-api/blob/main/images/424454961-e77f10c9-8e44-46aa-be3d-64c756741479.png" />
+<img width="800" alt="bright-data-google-flights-api-localization" src="https://github.com/bright-cn/-google-flights-api/blob/main/images/424454961-e77f10c9-8e44-46aa-be3d-64c756741479.png" />
 
 可基于位置与语言定制结果：
 
@@ -192,7 +192,7 @@ https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDI1LTA0LTAxagcIARI
 
 ### 货币参数
 
-<img width="800" alt="bright-data-google-flights-api-currency" src="https://github.com/bright-cn/google-flights-api/blob/main/images/424820088-c571e99f-b854-449e-abc2-60149611ad5b.png" />
+<img width="800" alt="bright-data-google-flights-api-currency" src="https://github.com/bright-cn/-google-flights-api/blob/main/images/424820088-c571e99f-b854-449e-abc2-60149611ad5b.png" />
 
 使用 `curr` 参数指定返回价格的货币。
 
