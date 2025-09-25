@@ -50,14 +50,14 @@ playwright install chromium
 ### 示例输出
 ```json
 {
-airline: "Emirates",
-departure_time: "4:15 AM",
-arrival_time: "2:00 PM",
-duration: "22 hr 15 min",
-stops: "1 stop in DXB",
-price: "$1,139",
-co2_emissions: "1,092 kg CO2e",
-emissions_variation: "+6% emissions"
+  "airline": "Emirates",
+  "departure_time": "4:15 AM",
+  "arrival_time": "2:00 PM",
+  "duration": "22 hr 15 min",
+  "stops": "1 stop in DXB",
+  "price": "$1,139",
+  "co2_emissions": "1,092 kg CO2e",
+  "emissions_variation": "+6% emissions"
 }
 ```
 
